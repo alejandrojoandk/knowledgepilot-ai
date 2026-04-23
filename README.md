@@ -297,3 +297,5 @@ This project demonstrates practical GenAI engineering skills:
 * product-oriented delivery
 
 ---
+
+This project was designed to demonstrate practical GenAI engineering skills with free tools, clean architecture, and production-minded delivery.
