@@ -190,7 +190,7 @@ Services:
 
 # API Examples
 
-# Healthcheck
+## Healthcheck
 
 ```bash
 curl http://localhost:8000/api/v1/healthcheck
@@ -198,7 +198,7 @@ curl http://localhost:8000/api/v1/healthcheck
 
 ---
 
-# Chat Endpoint
+## Chat Endpoint
 
 ```bash
 curl -X POST http://localhost:8000/api/v1/chat \
@@ -208,7 +208,7 @@ curl -X POST http://localhost:8000/api/v1/chat \
 
 ---
 
-# RAG Endpoint
+## RAG Endpoint
 
 ```bash
 curl -X POST http://localhost:8000/api/v1/rag-query \
