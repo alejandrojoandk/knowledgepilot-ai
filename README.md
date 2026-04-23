@@ -43,8 +43,8 @@ flowchart TD
 
 A[Streamlit Frontend] --> B[FastAPI Backend]
 
-B --> C[/api/v1/chat]
-B --> D[/api/v1/rag-query]
+B --> C[Chat Endpoint]
+B --> D[RAG Endpoint]
 
 C --> E[Groq LLM API]
 
@@ -52,7 +52,7 @@ D --> F[SentenceTransformer Embeddings]
 D --> G[Chroma Vector DB]
 D --> E
 
-H[Docs Folder .md Files] --> I[Ingestion Script]
+H[Markdown Docs] --> I[Ingestion Script]
 I --> G
 ```
 
