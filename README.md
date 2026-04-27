@@ -34,6 +34,13 @@ Ask grounded questions over internal company policies such as:
 
 Responses include document sources used during retrieval.
 
+# UI Preview
+<img width="1266" height="501" alt="image" src="https://github.com/user-attachments/assets/b73ee2e5-d852-4efb-a0bd-983ddc73d07d" />
+<img width="1266" height="631" alt="image" src="https://github.com/user-attachments/assets/c3909df0-9a1b-4a71-be62-f6c296409828" />
+<img width="1302" height="849" alt="image" src="https://github.com/user-attachments/assets/612ea916-5300-4c28-9186-eadc48500cb1" />
+
+
+
 ---
 
 # Architecture Overview
